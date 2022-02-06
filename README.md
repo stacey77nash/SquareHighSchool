@@ -1,4 +1,4 @@
-# TSTC2021
+# TSTC Spring 2021
 Final project from my first semester programming logic course.
 
 Create a program that will track student grades, separate them into the A and B honor rolls, and output 
